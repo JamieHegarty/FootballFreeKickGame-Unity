@@ -1,0 +1,947 @@
+fileFormatVersion: 2
+guid: 03728905fa812444da9fdb2ff91dffe3
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Geo
+    100002: //RootNode
+    100004: soccerplayer1:Head
+    100006: soccerplayer1:HeadTop_End
+    100008: soccerplayer1:Hips
+    100010: soccerplayer1:LeftArm
+    100012: soccerplayer1:LeftFoot
+    100014: soccerplayer1:LeftFootToeBase_End
+    100016: soccerplayer1:LeftForeArm
+    100018: soccerplayer1:LeftHand
+    100020: soccerplayer1:LeftHandIndex1
+    100022: soccerplayer1:LeftHandIndex2
+    100024: soccerplayer1:LeftHandIndex3
+    100026: soccerplayer1:LeftHandIndex4
+    100028: soccerplayer1:LeftHandMiddle1
+    100030: soccerplayer1:LeftHandMiddle2
+    100032: soccerplayer1:LeftHandMiddle3
+    100034: soccerplayer1:LeftHandMiddle4
+    100036: soccerplayer1:LeftHandPinky1
+    100038: soccerplayer1:LeftHandPinky2
+    100040: soccerplayer1:LeftHandPinky3
+    100042: soccerplayer1:LeftHandPinky4
+    100044: soccerplayer1:LeftHandRing1
+    100046: soccerplayer1:LeftHandRing2
+    100048: soccerplayer1:LeftHandRing3
+    100050: soccerplayer1:LeftHandRing4
+    100052: soccerplayer1:LeftHandThumb1
+    100054: soccerplayer1:LeftHandThumb2
+    100056: soccerplayer1:LeftHandThumb3
+    100058: soccerplayer1:LeftHandThumb4
+    100060: soccerplayer1:LeftLeg
+    100062: soccerplayer1:LeftShoulder
+    100064: soccerplayer1:LeftToeBase
+    100066: soccerplayer1:LeftUpLeg
+    100068: soccerplayer1:Neck
+    100070: soccerplayer1:Neck1
+    100072: soccerplayer1:RightArm
+    100074: soccerplayer1:RightFoot
+    100076: soccerplayer1:RightFootToeBase_End
+    100078: soccerplayer1:RightForeArm
+    100080: soccerplayer1:RightHand
+    100082: soccerplayer1:RightHandIndex1
+    100084: soccerplayer1:RightHandIndex2
+    100086: soccerplayer1:RightHandIndex3
+    100088: soccerplayer1:RightHandIndex4
+    100090: soccerplayer1:RightHandMiddle1
+    100092: soccerplayer1:RightHandMiddle2
+    100094: soccerplayer1:RightHandMiddle3
+    100096: soccerplayer1:RightHandMiddle4
+    100098: soccerplayer1:RightHandPinky1
+    100100: soccerplayer1:RightHandPinky2
+    100102: soccerplayer1:RightHandPinky3
+    100104: soccerplayer1:RightHandPinky4
+    100106: soccerplayer1:RightHandRing1
+    100108: soccerplayer1:RightHandRing2
+    100110: soccerplayer1:RightHandRing3
+    100112: soccerplayer1:RightHandRing4
+    100114: soccerplayer1:RightHandThumb1
+    100116: soccerplayer1:RightHandThumb2
+    100118: soccerplayer1:RightHandThumb3
+    100120: soccerplayer1:RightHandThumb4
+    100122: soccerplayer1:RightLeg
+    100124: soccerplayer1:RightShoulder
+    100126: soccerplayer1:RightToeBase
+    100128: soccerplayer1:RightUpLeg
+    100130: soccerplayer1:Spine
+    100132: soccerplayer1:Spine1
+    100134: soccerplayer1:Spine2
+    400000: Geo
+    400002: //RootNode
+    400004: soccerplayer1:Head
+    400006: soccerplayer1:HeadTop_End
+    400008: soccerplayer1:Hips
+    400010: soccerplayer1:LeftArm
+    400012: soccerplayer1:LeftFoot
+    400014: soccerplayer1:LeftFootToeBase_End
+    400016: soccerplayer1:LeftForeArm
+    400018: soccerplayer1:LeftHand
+    400020: soccerplayer1:LeftHandIndex1
+    400022: soccerplayer1:LeftHandIndex2
+    400024: soccerplayer1:LeftHandIndex3
+    400026: soccerplayer1:LeftHandIndex4
+    400028: soccerplayer1:LeftHandMiddle1
+    400030: soccerplayer1:LeftHandMiddle2
+    400032: soccerplayer1:LeftHandMiddle3
+    400034: soccerplayer1:LeftHandMiddle4
+    400036: soccerplayer1:LeftHandPinky1
+    400038: soccerplayer1:LeftHandPinky2
+    400040: soccerplayer1:LeftHandPinky3
+    400042: soccerplayer1:LeftHandPinky4
+    400044: soccerplayer1:LeftHandRing1
+    400046: soccerplayer1:LeftHandRing2
+    400048: soccerplayer1:LeftHandRing3
+    400050: soccerplayer1:LeftHandRing4
+    400052: soccerplayer1:LeftHandThumb1
+    400054: soccerplayer1:LeftHandThumb2
+    400056: soccerplayer1:LeftHandThumb3
+    400058: soccerplayer1:LeftHandThumb4
+    400060: soccerplayer1:LeftLeg
+    400062: soccerplayer1:LeftShoulder
+    400064: soccerplayer1:LeftToeBase
+    400066: soccerplayer1:LeftUpLeg
+    400068: soccerplayer1:Neck
+    400070: soccerplayer1:Neck1
+    400072: soccerplayer1:RightArm
+    400074: soccerplayer1:RightFoot
+    400076: soccerplayer1:RightFootToeBase_End
+    400078: soccerplayer1:RightForeArm
+    400080: soccerplayer1:RightHand
+    400082: soccerplayer1:RightHandIndex1
+    400084: soccerplayer1:RightHandIndex2
+    400086: soccerplayer1:RightHandIndex3
+    400088: soccerplayer1:RightHandIndex4
+    400090: soccerplayer1:RightHandMiddle1
+    400092: soccerplayer1:RightHandMiddle2
+    400094: soccerplayer1:RightHandMiddle3
+    400096: soccerplayer1:RightHandMiddle4
+    400098: soccerplayer1:RightHandPinky1
+    400100: soccerplayer1:RightHandPinky2
+    400102: soccerplayer1:RightHandPinky3
+    400104: soccerplayer1:RightHandPinky4
+    400106: soccerplayer1:RightHandRing1
+    400108: soccerplayer1:RightHandRing2
+    400110: soccerplayer1:RightHandRing3
+    400112: soccerplayer1:RightHandRing4
+    400114: soccerplayer1:RightHandThumb1
+    400116: soccerplayer1:RightHandThumb2
+    400118: soccerplayer1:RightHandThumb3
+    400120: soccerplayer1:RightHandThumb4
+    400122: soccerplayer1:RightLeg
+    400124: soccerplayer1:RightShoulder
+    400126: soccerplayer1:RightToeBase
+    400128: soccerplayer1:RightUpLeg
+    400130: soccerplayer1:Spine
+    400132: soccerplayer1:Spine1
+    400134: soccerplayer1:Spine2
+    4300000: Geo
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: soccerplayer1:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandThumb1
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandThumb2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandThumb3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandIndex1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandIndex2
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandIndex3
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandMiddle1
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandMiddle2
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandMiddle3
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandPinky1
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandPinky2
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:LeftHandPinky3
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandThumb1
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandThumb2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandThumb3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandIndex1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandIndex2
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandIndex3
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandMiddle1
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandMiddle2
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandMiddle3
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandPinky1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandPinky2
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: soccerplayer1:RightHandPinky3
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Soccer_Player_1@t-pose_3(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Geo
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Hips
+      position: {x: 0, y: .991797268, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightUpLeg
+      position: {x: .0963378921, y: -.0327325426, z: -7.15255721e-09}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightLeg
+      position: {x: -0, y: -.417299986, z: -.0172996521}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightFoot
+      position: {x: -.00012606621, y: -.391899973, z: -.00847686734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightToeBase
+      position: {x: .00183309556, y: -.121930853, z: .0828226358}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightFootToeBase_End
+      position: {x: -3.19480896e-05, y: 0, z: .119999997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftUpLeg
+      position: {x: -.0963378921, y: -.0327325426, z: -7.15255721e-09}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftLeg
+      position: {x: -0, y: -.417299986, z: -.0172996521}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftFoot
+      position: {x: -.000126047133, y: -.391899973, z: -.00847686734}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftToeBase
+      position: {x: .00183286658, y: -.121930853, z: .0828226358}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftFootToeBase_End
+      position: {x: -0, y: 0, z: .119999997}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Spine
+      position: {x: 2.6469779e-25, y: .0922631845, z: .0157713313}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Spine1
+      position: {x: -0, y: .162540287, z: -.00165605545}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Spine2
+      position: {x: -0, y: .136396483, z: -.0129230497}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightShoulder
+      position: {x: .0614019744, y: .101870112, z: -.0379324332}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightArm
+      position: {x: .123231195, y: -.0111297602, z: -.0179345701}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightForeArm
+      position: {x: .276870102, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHand
+      position: {x: .278737783, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandPinky1
+      position: {x: .0997145921, y: -.00119143899, z: -.0395400487}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandPinky2
+      position: {x: .0365275815, y: 3.8471646e-11, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandPinky3
+      position: {x: .027820332, y: -5.68434176e-16, z: -2.22042118e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandPinky4
+      position: {x: .0227667559, y: -2.84217088e-16, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandRing1
+      position: {x: .10470213, y: .00387871708, z: -.0193628054}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandRing2
+      position: {x: .0540127605, y: 3.8471646e-11, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandRing3
+      position: {x: .033915963, y: 2.84217088e-16, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandRing4
+      position: {x: .0296648573, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandMiddle1
+      position: {x: .107596025, y: .00489580538, z: .00427798787}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandMiddle2
+      position: {x: .056167677, y: 3.8471646e-11, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandMiddle3
+      position: {x: .0373635404, y: 2.84217088e-16, z: -3.330669e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandMiddle4
+      position: {x: .0288025942, y: 5.68434176e-16, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandIndex1
+      position: {x: .104665048, y: .00489580631, z: .0271196291}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandIndex2
+      position: {x: .0537676662, y: 3.84719305e-11, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandIndex3
+      position: {x: .0338546894, y: -9.70587587e-26, z: -6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandIndex4
+      position: {x: .0277305469, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandThumb1
+      position: {x: .0251776613, y: -.00936666969, z: .0251366831}
+      rotation: {x: -.043864388, y: -.01902337, z: .0412845947, w: .998002827}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandThumb2
+      position: {x: .0326378681, y: -.010869652, z: .0296688005}
+      rotation: {x: -.0281513818, y: -.0989895687, z: -.00529781962, w: .994676113}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandThumb3
+      position: {x: .044165276, y: -.0137026245, z: .0213502329}
+      rotation: {x: .0301474333, y: -.0454250164, z: -.0915173143, w: .994310021}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:RightHandThumb4
+      position: {x: .0347618647, y: -.000520370668, z: .0117094601}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftShoulder
+      position: {x: -.0614422597, y: .101870112, z: -.0379324332}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftArm
+      position: {x: -.123190917, y: -.0111297602, z: -.0179345701}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftForeArm
+      position: {x: -.276870102, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHand
+      position: {x: -.278737783, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandPinky1
+      position: {x: -.100129917, y: -.000783479074, z: -.0396714136}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandPinky2
+      position: {x: -.0367625616, y: 5.82352651e-25, z: 1.3322676e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandPinky3
+      position: {x: -.0281134248, y: -9.70587772e-26, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandPinky4
+      position: {x: -.0192546416, y: 2.84217088e-16, z: 1.47911416e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandRing1
+      position: {x: -.103251636, y: .0032113248, z: -.0187554192}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandRing2
+      position: {x: -.0544523224, y: -2.84217088e-16, z: 4.44090399e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandRing3
+      position: {x: -.0371317305, y: -2.91176325e-25, z: -6.661338e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandRing4
+      position: {x: -.0275792331, y: 2.84217088e-16, z: 1.47911416e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandIndex1
+      position: {x: -.103945345, y: .0061476063, z: .0270549227}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandIndex2
+      position: {x: -.0554928966, y: -2.84217088e-16, z: 4.44090399e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandIndex3
+      position: {x: -.0339111947, y: -5.68434176e-16, z: -2.22042118e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandIndex4
+      position: {x: -.0275792331, y: 2.84217088e-16, z: 1.47911416e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandMiddle1
+      position: {x: -.104639068, y: .0061476049, z: .00429787254}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandMiddle2
+      position: {x: -.057920903, y: 1.94117554e-25, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandMiddle3
+      position: {x: -.0371317305, y: -9.70587772e-26, z: -2.220446e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandMiddle4
+      position: {x: -.0275792331, y: 2.84217088e-16, z: 1.47911416e-33}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandThumb1
+      position: {x: -.0237851329, y: -.0100289928, z: .0262093581}
+      rotation: {x: -.0434398279, y: .028132936, z: -.0414985381, w: .99779731}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandThumb2
+      position: {x: -.0336236879, y: -.0100289918, z: .0283977166}
+      rotation: {x: -.0245303921, y: .081993334, z: -8.77174025e-05, w: .996330917}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandThumb3
+      position: {x: -.0450179465, y: -.0134449983, z: .0217826758}
+      rotation: {x: .0396276452, y: .00582708465, z: .0854946002, w: .995533228}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:LeftHandThumb4
+      position: {x: -.0321438089, y: 0, z: .0148989856}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Neck
+      position: {x: -0, y: .13877441, z: -.0435418673}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Neck1
+      position: {x: -0, y: .043400269, z: .0092689516}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:Head
+      position: {x: -1.05879116e-24, y: .0402661115, z: .0085852053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: soccerplayer1:HeadTop_End
+      position: {x: -5.17045827e-18, y: .178865969, z: .00123128889}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
